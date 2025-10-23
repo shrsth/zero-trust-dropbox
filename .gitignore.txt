@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+GeoLite2-Country.mmdb
+device_private_key.pem
+*.log

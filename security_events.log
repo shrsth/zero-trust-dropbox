@@ -1,0 +1,50 @@
+{"timestamp": "2025-10-15 20:45:22,664", "level": "INFO", "event": "login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 20:45:28,405", "level": "INFO", "event": "file_upload", "details": {"username": "G7", "filename": "fsdfsdf.txt", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 20:45:43,545", "level": "INFO", "event": "file_download", "details": {"username": "G7", "filename": "fsdfsdf.txt", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 20:46:03,039", "level": "INFO", "event": "file_download", "details": {"username": "G7", "filename": "fsdfsdf.txt", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 20:46:50,394", "level": "INFO", "event": "login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 20:47:00,525", "level": "INFO", "event": "file_download", "details": {"username": "G7", "filename": "fsdfsdf.txt", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 20:50:05,456", "level": "INFO", "event": "login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 20:50:18,727", "level": "INFO", "event": "file_download", "details": {"username": "G7", "filename": "fsdfsdf.txt", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:15:51,958", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:15:52,076", "level": "INFO", "event": "device_verified_and_login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:16:02,475", "level": "INFO", "event": "file_upload", "details": {"username": "G7", "filename": "Research_Paper_Writing_Guide.html", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:16:18,447", "level": "INFO", "event": "file_download", "details": {"username": "G7", "filename": "Research_Paper_Writing_Guide.html", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:18:06,070", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:18:06,150", "level": "WARNING", "event": "device_verify_failure", "details": {"username": "G7", "ip": "127.0.0.1", "reason": "signature_invalid"}}
+{"timestamp": "2025-10-15 21:19:24,309", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:19:24,393", "level": "INFO", "event": "device_verified_and_login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:23:12,283", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:23:12,408", "level": "INFO", "event": "device_verified_and_login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:23:29,895", "level": "INFO", "event": "file_upload", "details": {"username": "G7", "filename": "eCertificate.pdf", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:24:02,743", "level": "INFO", "event": "file_download", "details": {"username": "G7", "filename": "eCertificate.pdf", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:32:07,225", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:32:07,301", "level": "INFO", "event": "device_verified_and_login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:40:34,711", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:40:34,802", "level": "INFO", "event": "device_verified_and_login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:40:44,149", "level": "INFO", "event": "file_upload", "details": {"username": "G7", "filename": "gupta.txt", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-15 21:41:18,650", "level": "INFO", "event": "file_download", "details": {"username": "G7", "filename": "gupta.txt", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 00:43:15,853", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 00:43:15,939", "level": "INFO", "event": "device_verified_and_login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 00:43:23,976", "level": "INFO", "event": "file_upload", "details": {"username": "G7", "filename": "cmd.txt", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 00:43:33,806", "level": "INFO", "event": "file_download", "details": {"username": "G7", "filename": "cmd.txt", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 00:50:26,572", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 00:50:26,671", "level": "INFO", "event": "device_verified_and_login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 00:50:34,789", "level": "INFO", "event": "file_upload", "details": {"username": "G7", "filename": "cmd.txt", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 00:50:47,712", "level": "INFO", "event": "file_download", "details": {"username": "G7", "filename": "cmd.txt", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 12:39:18,764", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 12:39:18,864", "level": "INFO", "event": "device_verified_and_login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 12:40:16,463", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 12:40:16,544", "level": "WARNING", "event": "device_verify_failure", "details": {"username": "G7", "ip": "127.0.0.1", "reason": "signature_invalid"}}
+{"timestamp": "2025-10-16 12:41:04,668", "level": "WARNING", "event": "login_failure", "details": {"username": "G7", "ip": "127.0.0.1", "reason": "location_denied", "attempted": "IN", "allowed": "US"}}
+{"timestamp": "2025-10-16 12:41:43,010", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 12:41:43,093", "level": "INFO", "event": "device_verified_and_login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 14:17:21,673", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 14:18:34,071", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 14:20:59,208", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 14:20:59,293", "level": "INFO", "event": "device_verified_and_login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 14:22:14,172", "level": "INFO", "event": "file_upload", "details": {"username": "G7", "filename": "Mini_Project_Review-1.pptx", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 19:21:04,205", "level": "WARNING", "event": "login_failure", "details": {"username": "G7", "ip": "127.0.0.1", "reason": "location_denied", "attempted": "IN", "allowed": "US"}}
+{"timestamp": "2025-10-16 19:22:19,764", "level": "INFO", "event": "auth_challenge_issued", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 19:22:19,872", "level": "INFO", "event": "device_verified_and_login_success", "details": {"username": "G7", "ip": "127.0.0.1"}}
+{"timestamp": "2025-10-16 19:22:33,889", "level": "INFO", "event": "file_upload", "details": {"username": "G7", "filename": "cmd.txt", "ip": "127.0.0.1"}}
